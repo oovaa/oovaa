@@ -16,8 +16,16 @@ class BaseModel:
         self.updated_at = datetime.datetime.now()
 
     def to_dict(self):
+        # TODO: created_at and updated_at must be converted to string object in ISO format:
+        # format: %Y-%m-%dT%H:%M:%S.%f (ex: 2017-06-14T22:31:03.285259)
+        # you can use isoformat() of datetime object
+        # fixed
         obj_dict = self.__dict__
         obj_dict['__class__'] = self.__class__.__name__
+
+        obj_dict['created_at'] = obj_dict['created_at'].isoformat()
+
+        obj_dict['updated_at'] = obj_dict['updated_at'].isoformat()
 
         return obj_dict
 
