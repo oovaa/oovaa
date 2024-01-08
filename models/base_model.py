@@ -7,10 +7,19 @@ import uuid
 
 class BaseModel:
 
-    def __init__(self):
+    def __init__(self, *args, **kwargs):
         self.id = str(uuid.uuid4())
         self.created_at = datetime.datetime.now()
         self.updated_at = datetime.datetime.now()
+
+        if kwargs:
+            for k, v in kwargs.items():
+                if k in ('__class__'):
+                    continue
+                if k in ('created_at', 'updated_at'):
+                    setattr(self, k, datetime.datetime.fromisoformat(v))
+                else:
+                    setattr(self, k, v)
 
     def save(self):
         self.updated_at = datetime.datetime.now()
