@@ -1,57 +1,34 @@
-# Welcome to the AirBnB Clone Project
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Abdulrahim
+=======================================================================================================================================
 
-## Background Context
+future Back-end dev
+-------------------
 
-Greetings and welcome to the AirBnB Clone project! Before diving into the coding journey, acquaint yourself with the AirBnB concept by reading the dedicated page.
+im a student at ALX SE AFRICA program learning to be a backend engineer
 
-## Project Overview
+* 🌍  I'm based in Sudan
+* ✉️  You can contact me at [omarvx211@gmail.com](mailto:omarvx211@gmail.com )
+* 🧠  I'm learning back-end development
+* 🤝  I'm open to collaborating on any python, C or java related project
 
-This project marks the inception of your AirBnB clone, guiding you through the creation of a fully functional web application. The primary focus of this initial phase is crafting a command interpreter—a crucial foundation for managing AirBnB objects throughout the development process. The acquired skills will seamlessly integrate into subsequent projects, including HTML/CSS templating, database storage, API, and front-end integration.
+### Skills
 
-## Key Objectives
 
-1. **Parent Class (BaseModel):** Establish a parent class (BaseModel) for initiating, serializing, and deserializing future instances.
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-2. **Serialization Flow:** Develop a simple flow for serialization and deserialization, transitioning smoothly between Instance, Dictionary, JSON string, and file.
 
-3. **Object Classes:** Create classes for essential AirBnB entities (User, State, City, Place, etc.) that inherit from the BaseModel.
+### Socials
 
-4. **Storage Engine:** Introduce the project's first abstracted storage engine—File storage.
+<p align="left"> <a href="https://www.github.com/oovaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Omarvx211" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-5. **Unit Testing:** Rigorously validate all classes and the storage engine through comprehensive unit tests.
+### Badges
 
-## Learning Objectives
+<b>My GitHub Stats</b>
 
-At the end of this project, you should be able to explain the following without relying on Google:
+<a href="http://www.github.com/oovaa"><img src="https://github-readme-stats.vercel.app/api?username=oovaa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oovaa's GitHub stats" /></a>
 
-- Creating a Python package
-- Developing a command interpreter in Python using the cmd module
-- Implementing Unit testing in a large project
-- Serializing and deserializing a Class
-- Writing and reading a JSON file
-- Managing datetime
-- Understanding UUID
-- Utilizing *args and **kwargs
-- Handling named arguments in a function
+<a href="http://www.github.com/oovaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oovaa&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-## Resources
-
-Make sure to explore the following resources to deepen your understanding:
-
-- [cmd module](https://intranet.alxswe.com/rltoken/8ecCwE6veBmm3Nppw4hz5A)
-- [cmd module in depth](https://intranet.alxswe.com/rltoken/uEy4RftSdKypoig9NFTvCg)
-- [uuid module](https://intranet.alxswe.com/rltoken/KfL9TqwdI69W6ttG6gTPPQ)
-- [datetime](https://intranet.alxswe.com/rltoken/1d8I3jSKgnYAtA1IZfEDpA)
-- [unittest module](https://intranet.alxswe.com/rltoken/IlFiMB8UmqBG2CxA0AD3jA)
-- [args/kwargs](https://intranet.alxswe.com/rltoken/C_a0EKbtvKdMcwIAuSIZng)
-- [Python test cheatsheet](https://intranet.alxswe.com/rltoken/tgNVrKKzlWgS4dfl3mQklw)
-- [cmd module wiki page](https://intranet.alxswe.com/rltoken/EvcaH9uTLlauxuw03WnkOQ)
-- [python unittest](https://intranet.alxswe.com/rltoken/begh14KQA-3ov29KvD_HvA)
-
-## Project Requirements
-
-Ensure that your Python scripts and unit tests meet the specified requirements outlined in the project guidelines.
-
-## Get Started
-
-Now that you have a clear roadmap and ample resources, immerse yourself in the world of code and command interpretation. Remember, each task is a stepping stone, bringing you closer to the realization of your AirBnB clone. Happy coding!
+<a href="https://github.com/oovaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
