@@ -33,5 +33,5 @@ im a student at ALX SE AFRICA program learning to be a backend engineer
 
 <a href="https://github.com/oovaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&layout=compact&theme=dark&card_width=400)
 
