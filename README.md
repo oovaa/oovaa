@@ -31,5 +31,5 @@ im a student at ALX SE AFRICA program learning to be a backend engineer
 
 <a href="http://www.github.com/oovaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oovaa&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&layout=compact&theme=dark&card_width=450)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&layout=compact&theme=dark&card_width=400)
 
