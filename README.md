@@ -2,6 +2,8 @@
 🔭 I’m currently working on an IT support internship <br>👯 I’m looking to collaborate on web or linux related projects<br>🤝 I’m looking for help with my vscode extension hasanah and ccmdr<br>🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Fun fact: bun > node
 
 
+![ALX](./ALX_SE%20certificate%20omer%20abdelrahim%20C18.png)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-abdulrahim-12a716244) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Omarvx211)
 
@@ -12,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oovaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oovaa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oovaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
