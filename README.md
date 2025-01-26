@@ -14,13 +14,18 @@
 <div align="center">
   
 ```mermaid
-pie showData
+pie
     title Technical Focus Distribution
-    "AI Tooling Ecosystem (45%)" : 45 :#FF6B6B
-    "Cloud Native DevOps (25%)" : 25 :#4ECDC4
-    "Backend Optimization (10%)" : 10 :#45B7D1
-    "Frontend Architecture (10%)" : 10 :#96CEB4
-    "Developer Tooling (10%)" : 10 :#FFEEAD
+    "AI Tooling Ecosystem" :45
+    "Cloud Native DevOps" :25
+    "Backend Optimization" :10
+    "Frontend Architecture" :10
+    "Developer Tooling" :10
+    style "AI Tooling Ecosystem" fill:#FF6B6B
+    style "Cloud Native DevOps" fill:#4ECDC4
+    style "Backend Optimization" fill:#45B7D1
+    style "Frontend Architecture" fill:#96CEB4
+    style "Developer Tooling" fill:#FFEEAD
 ```
   
 </div>
@@ -90,6 +95,12 @@ graph TD
     C --> D[Vector Embedding]
     D --> E[Semantic Search]
     E --> F[LLM Synthesis]
+    style A fill:#FF6B6B
+    style B fill:#4ECDC4
+    style C fill:#45B7D1
+    style D fill:#96CEB4
+    style E fill:#FFEEAD
+    style F fill:#FFD21F
 ```
 
 ---
