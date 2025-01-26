@@ -28,13 +28,13 @@
 
 ### **Web Architecture**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![REST](https://img.shields.io/badge/-REST-FF6B6B?logo=rest&logoColor=white&style=flat)
 
 ### **AI/ML Stack**
 ![LangChain](https://img.shields.io/badge/-LangChain-FF6B6B?logo=langchain&logoColor=white&style=flat)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+
 
 ### **Dev Ecosystem**
 ![Bun](https://img.shields.io/badge/-Bun-FBF0DF?logo=bun&logoColor=black&style=flat)
