@@ -11,24 +11,6 @@
 
 ## 🚀 Current Focus
 
-<div align="center">
-  
-```mermaid
-pie
-    title Technical Focus Distribution
-    "AI Tooling Ecosystem" :45
-    "Cloud Native DevOps" :25
-    "Backend Optimization" :10
-    "Frontend Architecture" :10
-    "Developer Tooling" :10
-    style "AI Tooling Ecosystem" fill:#FF6B6B
-    style "Cloud Native DevOps" fill:#4ECDC4
-    style "Backend Optimization" fill:#45B7D1
-    style "Frontend Architecture" fill:#96CEB4
-    style "Developer Tooling" fill:#FFEEAD
-```
-  
-</div>
 
 - 🔭 **Building:** AI-enhanced development toolchain
 - 🌱 **Mastering:** Distributed systems & RAG architectures
