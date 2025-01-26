@@ -18,8 +18,10 @@
 pie
     title Current Dev Focus
     "AI-Powered Tools" : 45
-    "DevOps Automation" : 35
-    "VS Code Extensions" : 20
+    "DevOps Automation" : 25
+    "Improving back-end" : 10
+    "learning front-end" : 10
+    "VS Code Extensions" : 10
 ```
   
 </div>
@@ -59,7 +61,7 @@ pie
 ### [🧕 Hasanah](https://github.com/oovaa/hasanah) 
 **Arabic Development Experience Revolution**  
 Next-gen VS Code extension bringing modern IDE capabilities to Arabic technical content  
-`TypeScript` `VS Code API` `NLP` `Arabic NLP`
+`TypeScript` `VS Code API` `Quraan` `Arabic NLP`
 
 [![GitHub Stars](https://img.shields.io/github/stars/oovaa/hasanah?style=social)](https://github.com/oovaa/hasanah/stargazers)
 [![VSCode Installs](https://img.shields.io/visual-studio-marketplace/i/oovaa.hasanah?label=VS%20Code%20Installs)](https://marketplace.visualstudio.com/items?itemName=oovaa.hasanah)
@@ -69,7 +71,7 @@ Next-gen VS Code extension bringing modern IDE capabilities to Arabic technical 
 ### [🤖 bro](https://github.com/oovaa/bro) 
 **Context-Aware Terminal Intelligence**  
 AI-powered command line companion with adaptive learning capabilities  
-`Rust` `Machine Learning` `CLI` `Natural Language Processing`
+`Bun` `Machine Learning` `CLI` `Natural Language Processing`
 
 [![GitHub Release](https://img.shields.io/github/v/release/oovaa/bro?include_prereleases)](https://github.com/oovaa/bro/releases)
 [![Crates.io](https://img.shields.io/crates/v/bro-terminal)](https://crates.io/crates/bro-terminal)
@@ -78,12 +80,12 @@ AI-powered command line companion with adaptive learning capabilities
 
 ### [📄 ChatPDF](https://github.com/oovaa/ChatPDF) 
 **Next-Gen Document Intelligence**  
-Enterprise-grade PDF analysis platform with semantic search capabilities  
-`Next.js` `LangChain` `PostgreSQL` `RAG Architecture`
+Enterprise-grade Document analysis platform with semantic search capabilities  
+`Next.js` `LangChain` `sqlite` `RAG Architecture`
 
 ```mermaid
 graph LR
-    A[PDF Upload] --> B[Text Extraction]
+    A[Doc Upload] --> B[Text Extraction]
     B --> C[Vector Embedding]
     C --> D[Semantic Search]
     D --> E[AI Insights]
@@ -107,9 +109,9 @@ graph LR
 ## 💡 Thought Leadership
 
 ### Recent Insights
-- 🚀 [Why Bun is Revolutionizing JavaScript Tooling](https://yourblog.com/bun-revolution)
-- 🔥 [Building VS Code Extensions for Niche Markets](https://yourblog.com/vscode-niche)
-- 🤖 [RAG Architecture for Document Intelligence](https://yourblog.com/rag-architecture)
+- 🚀 [Why Bun is Revolutionizing JavaScript Tooling](#why-bun-is-revolutionizing-javascript-tooling)
+- 🔥 [Building VS Code Extensions for Niche Markets](#building-vs-code-extensions-for-niche-markets)
+- 🤖 [RAG Architecture for Document Intelligence](#rag-architecture-for-document-intelligence)
 
 ### Let's Discuss
 - Modern IDE extension development patterns
