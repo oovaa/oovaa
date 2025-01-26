@@ -16,12 +16,12 @@
   
 ```mermaid
 pie
-    title Current Dev Focus
-    "AI-Powered Tools" : 45
-    "DevOps Automation" : 25
-    "Improving back-end" : 10
-    "learning front-end" : 10
-    "VS Code Extensions" : 10
+    title Current Development Priorities
+    "AI Tooling Ecosystem (45%)" : 45 :#FF6B6B
+    "Cloud Native DevOps (25%)" : 25 :#4ECDC4
+    "Backend Optimization (10%)" : 10 :#45B7D1
+    "Frontend Architecture (10%)" : 10 :#96CEB4
+    "Developer Tooling (10%)" : 10 :#FFEEAD
 ```
   
 </div>
