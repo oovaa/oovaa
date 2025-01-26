@@ -68,24 +68,9 @@ Context-aware CLI tool with machine learning capabilities
 ### [📄 ChatPDF](https://github.com/oovaa/ChatPDF) 
 **Enterprise Document Intelligence**  
 AI-powered PDF analysis platform with semantic search  
-`Next.js` `LangChain` `PostgreSQL` `RAG`
+`Next.js` `LangChain` `sqlite` `RAG`
 
-```mermaid
-graph TD
-    A[PDF Upload] --> B[Text Extraction]
-    B --> C[Chunking]
-    C --> D[Vector Embedding]
-    D --> E[Semantic Search]
-    E --> F[LLM Synthesis]
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEEAD
-    style F fill:#FFD21F
-```
 
----
 
 ## 📈 GitHub Analytics
 
@@ -120,9 +105,9 @@ graph TD
 
 ## 🤝 Professional Network
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omar-abdulrahim-12a716244)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/omar-abdulrahim-1o)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/oovaa)
 [![Twitter](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x)](https://x.com/Omarvx211)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:omarvx211@gmail.com)
 
 </div>
