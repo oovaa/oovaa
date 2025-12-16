@@ -57,7 +57,8 @@
 
 | **Project** | **Description** | **Tech Stack** |
 |:---:|:---|:---|
-| **[🚀 Bro CLI](https://bro-website-sd.vercel.app/)** | **Terminal AI Assistant**<br>A CLI tool integrating the **Deepseek AI** model to provide powerful terminal-based assistance on Linux. | `Rust` `Deepseek` `Linux` |
+| **[🚀 Bro CLI](https://github.com/oovaa/bro)** | **Terminal AI Assistant**<br>A CLI tool integrating the **Deepseek AI** model to provide powerful terminal-based assistance on Linux. | `Rust` `Deepseek` `Linux` |
+| **[📚 Dara AI](https://dara-sd.vercel.app/)** | **AI-Powered Educational Platform**<br>An innovative platform enhancing student learning through AI with core tools—Summarizer and Question Maker—simplifying and accelerating the study process. | `AI` `React` `Education` |
 | **[🎓 Darajat AI](https://github.com/oovaa/Darajat)** | **Personal Learning Platform**<br>Generates custom educational roadmaps to help students affected by war continue their studies (LLM-powered). | `LLMs` `React` `GenAI` |
 | **[📄 ChatPDF](https://github.com/oovaa/ChatPDF)** | **Document Intelligence**<br>Parses 100-page docs in <30s. A document-aware chatbot answering questions from PDF/DOCX formats. | `LangChain` `RAG` `Express` |
 | **[🐚 Simple Shell](https://github.com/oovaa/simple_shell)** | **Custom Unix Shell**<br>Built from scratch in C to demonstrate deep understanding of process management and memory allocation. | `C` `SysCalls` `Kernel` |
