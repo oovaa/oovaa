@@ -12,9 +12,9 @@
 ## 🚀 Current Focus
 
 
-- 🔭 **Building:** AI-enhanced development toolchain
-- 🌱 **Mastering:** Distributed systems & RAG architectures
-- ⚡ **Experimenting:** WebAssembly integration patterns
+- 🔭 **Building:** Scalable web applications with AI capabilities.
+- 🌱 **Mastering:** Distributed systems & RAG/Agentic architectures
+- ⚡ **Experimenting:** New technologies, and new ways to build systems
 
 ---
 
@@ -25,30 +25,29 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-
 ### **Web Architecture**
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![REST](https://img.shields.io/badge/-REST-FF6B6B?logo=rest&logoColor=white&style=flat)
+![Hono.js](https://img.shields.io/badge/Hono.js-000000?style=flat&logo=hono&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST-FF6B6B?style=flat&logo=rest&logoColor=white)
 
 ### **AI/ML Stack**
-![LangChain](https://img.shields.io/badge/-LangChain-FF6B6B?logo=langchain&logoColor=white&style=flat)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
+### **Development & Infrastructure**
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat&logo=bun&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 
-### **Dev Ecosystem**
-![Bun](https://img.shields.io/badge/-Bun-FBF0DF?logo=bun&logoColor=black&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-
----
 
 ## 🌟 Featured Projects
 
+
 ### [🧕 Hasanah](https://github.com/oovaa/hasanah) 
-**Arabic Development Toolkit**  
-VS Code extension revolutionizing Arabic technical documentation handling  
-`TypeScript` `LSP` `Arabic NLP` `Quranic Analysis`
+**Religious Development Buddy**  
+VS Code extension revolutionizing Coding sessions adding a religious touch  
+`TypeScript` `Hadith Books` `Quranic Verses`
 
 [![GitHub Stars](https://img.shields.io/github/stars/oovaa/hasanah?style=social)](https://github.com/oovaa/hasanah/stargazers)
 [![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/oovaa.hasanah?label=VS%20Code%20Installs&color=blue)](https://marketplace.visualstudio.com/items?itemName=oovaa.hasanah)
@@ -57,8 +56,8 @@ VS Code extension revolutionizing Arabic technical documentation handling
 
 ### [🤖 bro](https://github.com/oovaa/bro) 
 **Intelligent Terminal Assistant**  
-Context-aware CLI tool with machine learning capabilities  
-`Rust` `MLOps` `Natural Language Processing` `WASM`
+CLI AI Agent with Web search  
+`Langchain` `Groq` `Natural Language Processing` 
 
 [![GitHub Release](https://img.shields.io/github/v/release/oovaa/bro?include_prereleases&label=Latest)](https://github.com/oovaa/bro/releases)
 [![Crates.io](https://img.shields.io/crates/v/bro-terminal?label=Crates.io)](https://crates.io/crates/bro-terminal)
@@ -68,7 +67,7 @@ Context-aware CLI tool with machine learning capabilities
 ### [📄 ChatPDF](https://github.com/oovaa/ChatPDF) 
 **Enterprise Document Intelligence**  
 AI-powered PDF analysis platform with semantic search  
-`Next.js` `LangChain` `sqlite` `RAG`
+`ExpressJS` `LangChain` `VectorDB` `RAG`
 
 
 
