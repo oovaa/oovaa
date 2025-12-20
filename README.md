@@ -31,7 +31,7 @@
 | Role | Company | Impact |
 |:---|:---|:---|
 | **Co-founder & Lead Engineer** | **Cphorm** | Engineered a patient management platform on **Hono.js** & **Cloudflare Workers**, achieving **99.9% uptime** and reducing admin time by **40%**. |
-| **Backend Engineer** | **Broch** | Designed core **Monolithic architecture** using **Express.js** & **Supabase**, enabling **50% faster** feature iteration for property listings. |
+| **Backend Engineer** | **Broch** | Designed core **Monolithic architecture** using **Express.js** & **Supabase**. |
 | **IT Intern** | **Sudanese Consumer Goods** | Managed internal IT systems and optimized Employees Performance, improving network stability by **15%**. |
 
 ---
