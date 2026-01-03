@@ -18,21 +18,10 @@
 
 <p align="center">
   Leveraging technical innovation to build <b>secure, scalable, and user-focused applications</b>.<br>
-  Currently optimizing patient management at <b>Cphorm</b> and studying <b>Computer Science</b> at UoPeople.<br>
-  <i>"Solving real-world challenges with Microservices, AI, and Cloudflare Workers."</i> 🚀
+  Currently studying <b>Computer Science</b> at UoPeople. and <b>Information Systems</b> at Sudan university for science and technology <br>
 </p>
 
 </div>
-
----
-
-## 💼 Professional Experience
-
-| Role | Company | Impact |
-|:---|:---|:---|
-| **Co-founder & Lead Engineer** | **Cphorm** | Engineered a patient management platform on **Hono.js** & **Cloudflare Workers**, achieving **99.9% uptime** and reducing admin time by **40%**. |
-| **Backend Engineer** | **Broch** | Designed core **Monolithic architecture** using **Express.js** & **Supabase**. |
-| **IT Intern** | **Sudanese Consumer Goods** | Managed internal IT systems and optimized Employees Performance, improving network stability by **15%**. |
 
 ---
 
