@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Omar+Abdulrahim;Full-Stack+Developer+%26+AI+Specialist;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Omar+Abdulrahim;Back-End+Developer+%26+AI+Specialist;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 
 <p>
     <a href="https://github.com/oovaa">
